@@ -2,7 +2,7 @@
 
 Getting started with a **BME280** environment sensor connected to an **ESP32-H2 Supermini** device and a TFT display with driver chip **ST7789**.
 
-This is the accompanying repository for my article "**Getting started with a BME280 environment sensor connected to an ESP32-H2 Supermini device and ST7789 TFT display**": 
+This is the accompanying repository for my article "**Getting started with a BME280 environment sensor connected to an ESP32-H2 Supermini device and ST7789 TFT display**": https://medium.com/@androidcrypto/getting-started-with-a-bme280-environment-sensor-connected-to-an-esp32-h2-supermini-device-and-829eaff9f46d.
 
 My display is a 2.0 inch large TFT display with 240 x 320 pixels.
 
